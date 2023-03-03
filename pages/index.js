@@ -18,6 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             console 1
+            console 2
           </p>
           <p>
             Get started by editing&nbsp;
