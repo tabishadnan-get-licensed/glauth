@@ -19,6 +19,7 @@ export default function Home() {
           <p>
             console 1
             console 2
+            console 3
           </p>
           <p>
             Get started by editing&nbsp;
